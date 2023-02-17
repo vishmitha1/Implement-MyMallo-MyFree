@@ -8,4 +8,5 @@ int main()
     int *s=(int*)MyMalloc(150);
     MyFree(q);
     int *r=(int*)MyMalloc(10);
+    int *x=(int*)MyMalloc(30);
 }
